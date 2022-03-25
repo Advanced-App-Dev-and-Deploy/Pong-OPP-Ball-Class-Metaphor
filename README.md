@@ -3,6 +3,13 @@ Lesson using Ball Class for "Metaphors", includes visual object searching
 
 TBA
 
+Thoughts to Explore
+- How the Driver (Main) Program will access the class to initiate different metaphors
+- Code & Variables that are added to the Ball Class, encapsulated
+- At minimum, the different metaphors can be background distractions
+- Metaphors can be foreground interactions
+- Pong can turn into a type of Pin Ball game
+
 ---
 
 # To Include
