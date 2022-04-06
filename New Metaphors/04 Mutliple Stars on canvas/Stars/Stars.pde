@@ -48,7 +48,7 @@ void setup() {
     for (int i=0; i<stars.length; i++) {
       for ( int j=stars.length-1; j>i; j--) {
         if (stars[i].ballX+stars[i].ballDiameter < stars[j].ballX && stars[i].ballX-stars[i].ballDiameter > stars[j].ballX) redo=true;
-        if (stars[i].ballX+stars[i].ballDiameter < stars[j].ballX && stars[i].ballX-stars[i].ballDiameter > stars[j].ballX) redo=true;
+        if (stars[i].ballY+stars[i].ballDiameter < stars[j].ballY && stars[i].ballY-stars[i].ballDiameter > stars[j].ballY) redo=true;
       }//End nested FOR
     }//End Final Check
   }//End WHILE
