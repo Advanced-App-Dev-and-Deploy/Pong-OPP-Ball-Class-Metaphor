@@ -15,9 +15,9 @@ void setup() {
   //
   for (int i=0; i<stars.length; i++) {
     //Randomly choose parameters
-    float xRandom = random (0 , appWidth); //No stars in net
-    float yRandom = random (0 , appHeight); //Entire appHeight OK
     float diameterRandom = random ( smallerDisplayDimension*1/8 , smallerDisplayDimension*1/4); //Consider user Input (eye sentitivity)
+    float xRandom = random ( 0+diameterRandom*1/2 , appWidth-diameterRandom*1/2 ); //No stars in net
+    float yRandom = random ( 0+diameterRandom*1/2 , appHeight-diameterRandom*1/2 ); //Entire appHeight OK
     stars[i] = new Ball (xRandom, yRandom, diameterRandom);
   }//End FOR Population
   //
