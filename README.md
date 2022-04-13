@@ -56,7 +56,7 @@ Additional Notes
 
 Chase Metaphor
 - Review basic class design
-- Intoduce absolute value function by reviewing the random function
+- Introduces absolute value function by reviewing the random function
   - Instead of (0, 256) or (256) parameters, use formula
 
 Black Holes introduces
@@ -70,3 +70,11 @@ Black Holes introduces
   - Public
   - Private
   - Static
+
+---
+
+# To include
+
+Writing algorithms to have a screen saver track the closest ball (x-variable) means writing search code, this introduces String Searches later
+
+---
