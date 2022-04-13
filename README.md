@@ -23,26 +23,26 @@ Grading Notes
 OOP Pong Game ... Passing Grade:
   1. Display: not-Landscape will break the program somehow, feedback to user to change the orientation
   2. Configuration
-    - Paddle speed configurable
-    - 2-Player, Single Player, and Screen Saver modes
+     - Paddle speed configurable
+     - 2-Player, Single Player, and Screen Saver modes
   3. Pong-ball behavior
-    - Typical Pong Behavior (bouncing-at-edge and scoring)
-    - Does the BALL show it scored? (stuck in the net)
-    - Multiple BALLs: one at a time or multiple
+     - Typical Pong Behavior (bouncing-at-edge and scoring)
+     - Does the BALL show it scored? (stuck in the net)
+     - Multiple BALLs: one at a time or multiple
   4. Paddle behaviour
-    - Typical Pong Behavior (bouncing-ball and staying on the screen)
-    - Is the paddle movement smooth or interrupted by the other paddle (an issue of coding)
+     - Typical Pong Behavior (bouncing-ball and staying on the screen)
+     - Is the paddle movement smooth or interrupted by the other paddle (an issue of coding)
   5. BALL interact with Paddle
-    - Typical Bounce behaviour (angle of incidence = angle of reflection)
+     - Typical Bounce behaviour (angle of incidence = angle of reflection)
   6. Is the scoreboard attached (typical pong behavior) and working
   7. Instructions
-    - Instructions: how to win a match
-    - Instructions on paddle control keyBoard control
+     - Instructions: how to win a match
+     - Instructions on paddle control keyBoard control
   8. Is a BALL Initiated after each goal?
   9. Does the ScreenSaver Mode illustrate all the above
   10. Is the game colour with daytime and night modes? (either button or using OS Time)
   11. Is an array or an array list initiated using the Ball Class in a different way (second constructor)?
-    - Similar to "Night Sky", "Chase", "Black Hole", "Fireworks"
+     - Similar to "Night Sky", "Chase", "Black Hole", "Fireworks"
 
 **Please do not put Mr. Mercer in the difficult position of considering "better than passing items" when not all passing items are completed.**
 
