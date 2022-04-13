@@ -61,9 +61,9 @@ Lesson Progressions
 2. More than two constructors (using more metaphors?) in the Ball and Paddle Classes?
 3. Scoring a goal is celebrated (i.e. fireworks metaphor)
 4. Pong BALL interacts with more than just paddles, walls, and net
-  - Question of how is up to you: other Pong BALLs, pinball use of BALL Class or Paddle Class
-  - I.e. night sky, chase, and / or black hole metaphors
-  - Other ideas up to student
+   - Question of how is up to you: other Pong BALLs, pinball use of BALL Class or Paddle Class
+   - I.e. night sky, chase, and / or black hole metaphors
+   - Other ideas up to student
 5. Scoreboard: uses ARRAYS or Array-Lists and CLASS(es) to celebrate goals and/or match wins
 
 ### OOP godMode Grades
@@ -72,8 +72,8 @@ Lesson Progressions
 3. BALL interact with Paddle affects speed when paddle is moving ("Paddle Skill")
 4. Paddle behaviour: changing angle of paddle affecting direction and magnitude energy transfer
 5. FileIO (CS20): pausing a match and quitting the application can be restarted wtih all configuration and settings returned
-  - Includes option not to restart previous match played by specific named players (by configuration)
-  - Usually done by .txt
+   - Includes option not to restart previous match played by specific named players (by configuration)
+   - Usually done by .txt
 6. Ability to Screenshot godMode-speed level "plays"
 
 **Notice: godMode answers "Is this game Awesome?"**
