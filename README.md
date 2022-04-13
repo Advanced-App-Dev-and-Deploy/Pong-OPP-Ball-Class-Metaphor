@@ -42,7 +42,7 @@ Lesson Progressions
 9. Does the ScreenSaver Mode illustrate all the above
 10. Is the game colour with daytime and night modes? (either button or using OS Time)
 11. Is an array or an array list initiated using the Ball Class in a different way (second constructor)?
-   - Similar to "Night Sky", "Chase", "Black Hole", "Fireworks"
+    - Similar to "Night Sky", "Chase", "Black Hole", "Fireworks"
 
 **Please do not put Mr. Mercer in the difficult position of considering "better than passing items" when not all passing items are completed.**
 
